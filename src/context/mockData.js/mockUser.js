@@ -24,7 +24,7 @@ export default {
   "email": null,
   "hireable": null,
   "bio": "Working on @reactjs. Co-author of Redux and Create React App. Building tools for humans.",
-  "twitter_username": null,
+  "twitter_username": "dan_abramov",
   "public_repos": 247,
   "public_gists": 71,
   "followers": 61141,
